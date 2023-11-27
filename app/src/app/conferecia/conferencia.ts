@@ -23,4 +23,4 @@ export class Conferencia {
       
     }
    }
-   /* archivo src/app/book/book.ts */
+   
